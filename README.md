@@ -2,20 +2,22 @@
 
 
 ## 👋 About Me
-💻 Experienced Android Developer since 2022
 
-🕵 Committed to clean architecture and following standard guidelines with proper linting
+⚡ Mobile Developer with professional experience since 2022
 
-🌱 Passionate about diving deep into technical computer knowledge and Mobile Development
+🏗️ Dedicated to implementing clean architecture principles and industry-standard coding guidelines
 
-🎯 Chose Mobile Development as my specialty out of genuine passion
+📚 Enthusiastic about exploring in-depth technical aspects of computing and Mobile Development
 
-🔍 Currently advancing my expertise in Dart and Kotlin
+💡 Found my true calling in Mobile Development through genuine enthusiasm
 
-👯 Actively collaborating on products that shape a better future
+🔧 Focusing on mastering advanced concepts in Dart and Kotlin
+
+🤝 Collaborating with teams to create impactful digital solutions
+
 🎓 Bachelor's Degree in System Information from Universitas Sangga Buana Bandung
 
-📫 Reach me at dannyptr21@gmail.com
+📧 Contact me at dannyptr21@gmail.com
 
 ## 🛠️ Technology Stack
 
