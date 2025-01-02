@@ -1,12 +1,16 @@
 # Welcome to My GitHub !🌟
 
-![Profile views](https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge&color=green)
 
 ## 👋 About Me
-- 🚀 Mobile Developer specializing in Flutter, Kotlin, and Dart
-- 🎓 System Information Graduate
-- 🌱 Currently focused on Clean Architecture and Scalable Apps
-- 🤝 Open to collaborative projects and innovations
+💻 Experienced Android Developer since 2021
+🕵 Committed to clean architecture and following standard guidelines with proper linting
+🌱 Passionate about diving deep into technical computer knowledge and Mobile Development
+🎯 Chose Mobile Development as my specialty out of genuine passion
+🔍 Currently advancing my expertise in Dart and Kotlin
+👯 Actively collaborating on products that shape a better future
+🎓 Bachelor's Degree in System Information from Universitas Islam Negeri Sunan Gunung Djati Bandung
+🎓 Outstanding participant graduate of Candradimuka Jabar Coding Camp 2022
+📫 Reach me at adrifatwa31@gmail.com
 
 ## 🛠️ Technology Stack
 
