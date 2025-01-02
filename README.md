@@ -3,7 +3,7 @@
 
 
 ## 👨‍💻 About Me
-- ⚡ Android Developer with professional experience since 2022
+- ⚡ Mobile Developer with professional experience since 2022
 - 🏗️ Dedicated to implementing clean architecture principles and industry-standard coding guidelines
 - 📚 Enthusiastic about exploring in-depth technical aspects of computing and Mobile Development
 - 🔧 Focusing on mastering advanced concepts in Dart, Kotlin, React Native and Swift
