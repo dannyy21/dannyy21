@@ -9,9 +9,7 @@
 
 📚 Enthusiastic about exploring in-depth technical aspects of computing and Mobile Development
 
-💡 Found my true calling in Mobile Development through genuine enthusiasm
-
-🔧 Focusing on mastering advanced concepts in Dart and Kotlin
+🔧 Focusing on mastering advanced concepts in Dart, React Native, Kotlin and Swift
 
 🤝 Collaborating with teams to create impactful digital solutions
 
