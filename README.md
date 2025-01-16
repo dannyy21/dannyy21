@@ -6,7 +6,7 @@
 - ⚡ Mobile Developer with experience since 2022
 - 🏗️ Dedicated to implementing clean architecture principles and industry-standard coding guidelines
 - 📚 Enthusiastic about exploring in-depth technical aspects of computing and Mobile Development
-- 🔧 Focusing on mastering advanced concepts in Dart, Kotlin, React Native and Swift
+- 🔧 Focusing on mastering advanced concepts in Flutter, Kotlin, React Native and Swift
 - 🤝 Collaborating with teams to create impactful digital solutions
 - 🎓 Bachelor's Degree in System Information from Universitas Sangga Buana Bandung
 - 📧 Contact me at dannyptr21@gmail.com
