@@ -36,7 +36,7 @@
 ## 🌐 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danny-putra-pertama)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://yourportfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://dannyy21.github.io/portfolio/)
 
 ## 🎯 Interests
 - 📱 Mobile Development
