@@ -10,6 +10,7 @@
 - 🤝 Collaborating with teams to create impactful digital solutions
 - 🎓 Bachelor's Degree in System Information from Universitas Sangga Buana Bandung
 - 📧 Contact me at dannyptr21@gmail.com
+- Have a full time work and freelance on upwork
 
 ## 🛠️ Technology Stack
 
